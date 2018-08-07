@@ -1,0 +1,31 @@
+.container{
+  margin: 0%
+}
+blockquote{
+  background-color: slategray;
+float: left;
+}
+header{
+  background-color: grey;
+  width: 960px;
+  display: flex;
+  justify-content: center;
+}
+ul{
+  display: flex;
+  justify-content: left;
+}
+li{
+  text-transform: none;
+  display: inline;
+}
+
+main{
+  text-align: center;
+
+}
+
+#resumeSample{
+  display: flex;
+
+}
